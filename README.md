@@ -1,6 +1,5 @@
 Crypto Wallet 💰
-A modern, simple cryptocurrency wallet built with [React / Flutter / etc.].  
-Manage your crypto easily and securely.
+A modern, simple cryptocurrency wallet built to manage your crypto easily and securely.
 
 ## Features
 - Track balances
